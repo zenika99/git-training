@@ -1,4 +1,5 @@
 Sites à Scanner :
 ...
 -Strusts2
+-JSF
 

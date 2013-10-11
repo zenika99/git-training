@@ -2,4 +2,6 @@ Sites à Scanner :
 ...
 -Strusts2
 -JSF
+application lourde
+Technologie Swing
 
